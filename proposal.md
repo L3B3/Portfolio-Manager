@@ -5,7 +5,7 @@ This project is designed to help young investors understand the performance and 
 
 The main requirement is allowing the user to upload historical and positional data. This project will use the Yahoo Finance API to retrieve price history and current market data. Using this information, the project will calculate total portfolio value, gain/loss, portfolio weights, and display these metrics through performance visualizations.
 
-A stretch goal is to add forecasting features using simple regression and an LSTM RNN model. If this forecasting component cannot be completed within the project timeline, the model will be expanded and improved after the initial deadline. I also plan to build a website interface that is visually clear and easy to use.
+A stretch goal is to add forecasting features using simple regression and an LSTM model. If this forecasting component cannot be completed within the project timeline, the model will be expanded and improved after the initial deadline. I also plan to build a website interface that is visually clear and easy to use.
 
 ## Learning Objectives
 The learning goals for this project include:
